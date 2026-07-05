@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# TensorFlow Models
+*.keras
+*.h5
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# React
+build/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
